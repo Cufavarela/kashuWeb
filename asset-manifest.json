@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kashuWeb/static/css/main.5a20a31f.chunk.css",
+    "main.js": "/kashuWeb/static/js/main.597fd0e3.chunk.js",
+    "main.js.map": "/kashuWeb/static/js/main.597fd0e3.chunk.js.map",
+    "runtime-main.js": "/kashuWeb/static/js/runtime-main.6342bffc.js",
+    "runtime-main.js.map": "/kashuWeb/static/js/runtime-main.6342bffc.js.map",
+    "static/css/2.37288fb9.chunk.css": "/kashuWeb/static/css/2.37288fb9.chunk.css",
+    "static/js/2.0202ab0d.chunk.js": "/kashuWeb/static/js/2.0202ab0d.chunk.js",
+    "static/js/2.0202ab0d.chunk.js.map": "/kashuWeb/static/js/2.0202ab0d.chunk.js.map",
+    "index.html": "/kashuWeb/index.html",
+    "static/css/2.37288fb9.chunk.css.map": "/kashuWeb/static/css/2.37288fb9.chunk.css.map",
+    "static/css/main.5a20a31f.chunk.css.map": "/kashuWeb/static/css/main.5a20a31f.chunk.css.map",
+    "static/js/2.0202ab0d.chunk.js.LICENSE.txt": "/kashuWeb/static/js/2.0202ab0d.chunk.js.LICENSE.txt",
+    "static/media/DownloadAppStore.f7e8d378.png": "/kashuWeb/static/media/DownloadAppStore.f7e8d378.png",
+    "static/media/DownloadPlayStore.5ecb38c7.png": "/kashuWeb/static/media/DownloadPlayStore.5ecb38c7.png",
+    "static/media/Gaby.a08790e2.PNG": "/kashuWeb/static/media/Gaby.a08790e2.PNG",
+    "static/media/KashúWhite.5df89609.png": "/kashuWeb/static/media/KashúWhite.5df89609.png",
+    "static/media/App.scss": "/kashuWeb/static/media/hero-img.232d767f.jpg",
+    "static/media/Pau.06606aa1.jpeg": "/kashuWeb/static/media/Pau.06606aa1.jpeg",
+    "static/media/cellphone.a41abbbc.png": "/kashuWeb/static/media/cellphone.a41abbbc.png",
+    "static/media/logoBlue.5f63fd32.png": "/kashuWeb/static/media/logoBlue.5f63fd32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6342bffc.js",
+    "static/css/2.37288fb9.chunk.css",
+    "static/js/2.0202ab0d.chunk.js",
+    "static/css/main.5a20a31f.chunk.css",
+    "static/js/main.597fd0e3.chunk.js"
+  ]
+}
