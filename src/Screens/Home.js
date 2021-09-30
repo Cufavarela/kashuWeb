@@ -1,4 +1,3 @@
-import { useRef } from "react";
 import { Container, Row } from "react-bootstrap";
 import AboutUs from "../Components/AboutUs";
 import Contact from "../Components/Contact";
@@ -6,23 +5,19 @@ import Features from "../Components/Features";
 import Hero from "../Components/Hero";
 
 const Home = () => {
-  const topHome = useRef();
-  const features = useRef();
-  const contact = useRef();
-
   return (
     <Container fluid className="mt-5">
-      <Row>
-        <Hero ref={topHome} />
+      <Row style={{ position: "relative" }}>
+        <Hero />
       </Row>
-      <Row>
-        <Features ref={features} />
+      <Row style={{ position: "relative" }}>
+        <Features />
       </Row>
-      <Row>
+      <Row style={{ position: "relative" }}>
         <AboutUs />
       </Row>
-      <Row>
-        <Contact ref={contact} />
+      <Row style={{ position: "relative" }}>
+        <Contact />
       </Row>
     </Container>
   );

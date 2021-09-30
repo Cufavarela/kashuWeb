@@ -7,6 +7,7 @@ import gaby from "../Assets/images/Gaby.PNG";
 function AboutUs() {
   return (
     <>
+      <span className="anchor" id="about" />
       <div
         className="
           bg-img-parallax

@@ -1,3 +1,8 @@
+body,
+html {
+  scroll-behavior: smooth;
+}
+
 $primary: #5c54f0;
 
 @import "~bootstrap/scss/bootstrap";
@@ -5,6 +10,11 @@ $primary: #5c54f0;
 
 .App {
   text-align: center;
+}
+
+.anchor {
+  position: absolute;
+  top: -70px;
 }
 
 .text-blue {
