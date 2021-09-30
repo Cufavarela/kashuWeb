@@ -1,0 +1,73 @@
+$primary: #5c54f0;
+
+@import "~bootstrap/scss/bootstrap";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.App {
+  text-align: center;
+}
+
+.text-blue {
+  color: $primary;
+}
+
+.bg-growBlue {
+  background-color: var(--grow-blue);
+}
+
+.bg-logo {
+  background-image: url("./Assets/images/LogoGrowLightBlue.png");
+  background-size: 590px;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+
+.text-growBlue {
+  color: var(--grow-blue);
+}
+
+.bg-hero {
+  background-image: url("./Assets/images/hero-img.jpg");
+  background-size: cover;
+  width: 100%;
+}
+
+.border-growBlue {
+  border-color: var(--grow-blue);
+}
+
+.bg-img-parallax {
+  background-image: url("./Assets/images/blue-tech-img.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.fix-height {
+  height: 200px;
+}
+
+.contact-form {
+  width: 500px;
+  margin: auto;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.feature-icon-wrapper {
+  font-size: 30px;
+  height: 60px;
+  width: 60px;
+  color: white;
+  background-color: $primary;
+  border-radius: 10px;
+}
+
+.icon-button {
+  color: $primary;
+  font-size: 20px;
+  cursor: pointer;
+}
