@@ -21,7 +21,7 @@ function AboutUs() {
           text-center
         "
       >
-        <div className="px-4 container fix-height text-white">
+        <div className="px-4 container text-white">
           <h1 className="display-5 fw-bold lh-1 mb-3">Nosotros</h1>
           <p className="lead">
             Nuestra misión como empresa es conectar y educar a las personas con
@@ -34,15 +34,11 @@ function AboutUs() {
         <Container className="d-flex justify-content-around">
           <Row>
             <Col>
-              <Card
-                style={{
-                  height: "15rem",
-                  flexDirection: "row",
-                }}
-              >
+              <Card className="personalCard">
                 <Card.Img
                   src={pau}
                   style={{ filter: "grayscale(100%)", width: "auto" }}
+                  className="no-display"
                 />
                 <Card.Body>
                   <Card.Title>Paula Victoria Guelfo</Card.Title>
@@ -66,8 +62,12 @@ function AboutUs() {
               </Card>
             </Col>
             <Col>
-              <Card style={{ height: "15rem", flexDirection: "row" }}>
-                <Card.Img src={gaby} style={{ width: "auto" }} />
+              <Card className="personalCard">
+                <Card.Img
+                  src={gaby}
+                  style={{ width: "auto" }}
+                  className="no-display"
+                />
                 <Card.Body>
                   <Card.Title>Gabriela Rocha Galviz</Card.Title>
                   <Card.Text>

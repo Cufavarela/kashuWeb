@@ -41,7 +41,7 @@ export default function Hero() {
                 />
               </div>
             </Col>
-            <Col>
+            <Col className="no-display">
               <img
                 src={cellphone}
                 className="d-block mx-lg-auto img-fluid"

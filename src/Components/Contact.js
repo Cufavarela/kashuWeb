@@ -38,12 +38,7 @@ function Contact() {
           Escribinos para <strong>recibir novedades</strong>, enterarte del
           lanzamiento o para preguntar cualquier duda.
         </p>
-        <Form
-          ref={form}
-          className="mt-5"
-          style={{ width: "50%", margin: "auto" }}
-          onSubmit={sendEmail}
-        >
+        <Form ref={form} className="mt-5 contact-form" onSubmit={sendEmail}>
           <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
             <Form.Label>Nombre</Form.Label>
             <Form.Control
