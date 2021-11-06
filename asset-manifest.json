@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kashuWeb/static/css/main.de1dd4f8.chunk.css",
-    "main.js": "/kashuWeb/static/js/main.0cef9f20.chunk.js",
-    "main.js.map": "/kashuWeb/static/js/main.0cef9f20.chunk.js.map",
+    "main.js": "/kashuWeb/static/js/main.c88cf075.chunk.js",
+    "main.js.map": "/kashuWeb/static/js/main.c88cf075.chunk.js.map",
     "runtime-main.js": "/kashuWeb/static/js/runtime-main.6342bffc.js",
     "runtime-main.js.map": "/kashuWeb/static/js/runtime-main.6342bffc.js.map",
     "static/css/2.37288fb9.chunk.css": "/kashuWeb/static/css/2.37288fb9.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.37288fb9.chunk.css",
     "static/js/2.608012da.chunk.js",
     "static/css/main.de1dd4f8.chunk.css",
-    "static/js/main.0cef9f20.chunk.js"
+    "static/js/main.c88cf075.chunk.js"
   ]
 }
