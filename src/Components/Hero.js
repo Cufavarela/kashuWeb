@@ -17,10 +17,10 @@ export default function Hero() {
               </h1>
               <h3>Lo que tu dinero necesita</h3>
               <p className="lead">
-                Kashú es una plataforma <strong>completamente gratuita</strong>{" "}
-                que te permitirá de forma segura y centralizada aprender sobre
-                finanzas con contenido diseñado por expertos que te permitirá
-                poner tu dinero en acción.
+                Kashú es una app <strong>completamente gratuita</strong> que te
+                permitirá aprender de forma segura sobre finanzas con contenido
+                diseñado por expertos, y te dará todo lo necesario para poner tu
+                dinero en acción de manera inteligente.
               </p>
               <p className="lead">Aprendé. Planificá. Ejecutá.</p>
               <p className="lead">Próximamente disponible en...</p>

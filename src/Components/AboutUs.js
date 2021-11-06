@@ -1,4 +1,3 @@
-import Button from "@restart/ui/esm/Button";
 import React from "react";
 import { Card, Container, Row, Col } from "react-bootstrap";
 import pau from "../Assets/images/Pau.jpeg";
@@ -24,11 +23,10 @@ function AboutUs() {
         <div className="px-4 container text-white">
           <h1 className="display-5 fw-bold lh-1 mb-3">Nosotros</h1>
           <p className="lead">
-            Nuestra misión como empresa es conectar y educar a las personas con
-            herramientas inteligentes para mejorar sus finanzas e incluirlas en
-            el sistema financiero. Y queremos lograrlo facilitando el acceso a
-            la educación y herramientas financieras en todos los países de
-            América Latina.
+            Nuestra misión es conectar y educar a las personas con herramientas
+            inteligentes para mejorar sus finanzas e incluirlas en el sistema
+            financiero, y queremos lograrlo facilitando el acceso a la educación
+            y herramientas financieras en todos los países de América Latina.{" "}
           </p>
         </div>
         <Container className="d-flex justify-content-around">
@@ -71,9 +69,9 @@ function AboutUs() {
                 <Card.Body>
                   <Card.Title>Gabriela Rocha Galviz</Card.Title>
                   <Card.Text>
-                    Graduada en finanzas, líder servicial que disfruta el
-                    voluntariado. Analista en Finnovating, Bolivia. Le apasiona
-                    ser parte de proyectos con impacto social.{" "}
+                    Egresada en finanzas, líder de servicio apasionada por la
+                    innovación social. Coordinadora de proyectos en Grupo Nueva
+                    Economía.{" "}
                   </Card.Text>
                   <div className="d-flex justify-content-around">
                     <a
