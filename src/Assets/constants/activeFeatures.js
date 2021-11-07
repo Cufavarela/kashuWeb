@@ -3,13 +3,13 @@ export const activeFeatures = [
     icon: "bi-calculator",
     title: "Controlá tus Finanzas 24/7",
     description:
-      "Carga tus ingresos y gastos de manera sencilla. Arma un presupuesto y un flujo de caja con nuestra ayuda, para entender cómo estás financieramente para planificar tus objetivos.",
+      "Carga tus ingresos y gastos de manera sencilla. Arma un presupuesto y un flujo de fondos con nuestra ayuda, para entender cómo estás financieramente y planificar tus objetivos.",
   },
   {
     icon: "bi-shop",
     title: "Simulá y pasá a la acción",
     description:
-      "Tendrás a tu disposición un marketplace de productos financieros. Podrás simular inversiones, pagos en cuotas, etc. Cuando estés listo, y entendiendo por qué y cómo te ayudará ese producto, lo puedes contratar desde la misma app.",
+      "Tendrás a tu disposición un marketplace de productos financieros. Podrás simular inversiones, pagos en cuotas, etc. Cuando estés listo, y entendiendo por qué y cómo te ayudará ese producto, lo vas a poder contratar desde la misma app.",
   },
   {
     icon: "bi-controller",
