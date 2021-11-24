@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6a7f797.chunk.css",
-    "main.js": "/static/js/main.c88cf075.chunk.js",
-    "main.js.map": "/static/js/main.c88cf075.chunk.js.map",
+    "main.css": "/static/css/main.ab5f8f15.chunk.css",
+    "main.js": "/static/js/main.a67a2808.chunk.js",
+    "main.js.map": "/static/js/main.a67a2808.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cc0b40e6.js",
     "runtime-main.js.map": "/static/js/runtime-main.cc0b40e6.js.map",
     "static/css/2.e9177d37.chunk.css": "/static/css/2.e9177d37.chunk.css",
@@ -10,11 +10,12 @@
     "static/js/2.608012da.chunk.js.map": "/static/js/2.608012da.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e9177d37.chunk.css.map": "/static/css/2.e9177d37.chunk.css.map",
-    "static/css/main.a6a7f797.chunk.css.map": "/static/css/main.a6a7f797.chunk.css.map",
+    "static/css/main.ab5f8f15.chunk.css.map": "/static/css/main.ab5f8f15.chunk.css.map",
     "static/js/2.608012da.chunk.js.LICENSE.txt": "/static/js/2.608012da.chunk.js.LICENSE.txt",
     "static/media/DownloadAppStore.f7e8d378.png": "/static/media/DownloadAppStore.f7e8d378.png",
     "static/media/DownloadPlayStore.5ecb38c7.png": "/static/media/DownloadPlayStore.5ecb38c7.png",
-    "static/media/Gaby.a08790e2.PNG": "/static/media/Gaby.a08790e2.PNG",
+    "static/media/Fabi.97ebba2b.jpg": "/static/media/Fabi.97ebba2b.jpg",
+    "static/media/Gaby.e3fc0957.PNG": "/static/media/Gaby.e3fc0957.PNG",
     "static/media/KashúWhite.5df89609.png": "/static/media/KashúWhite.5df89609.png",
     "static/media/App.scss": "/static/media/hero-img.232d767f.jpg",
     "static/media/Pau.06606aa1.jpeg": "/static/media/Pau.06606aa1.jpeg",
@@ -25,7 +26,7 @@
     "static/js/runtime-main.cc0b40e6.js",
     "static/css/2.e9177d37.chunk.css",
     "static/js/2.608012da.chunk.js",
-    "static/css/main.a6a7f797.chunk.css",
-    "static/js/main.c88cf075.chunk.js"
+    "static/css/main.ab5f8f15.chunk.css",
+    "static/js/main.a67a2808.chunk.js"
   ]
 }
