@@ -3,7 +3,7 @@ export const activeFeatures = [
     icon: "bi-calculator",
     title: "Controlá tus Finanzas 24/7",
     description:
-      "Carga tus ingresos y gastos de manera sencilla. Arma un presupuesto y un flujo de fondos con nuestra ayuda, para entender cómo estás financieramente y planificar tus objetivos.",
+      "Cargá tus ingresos y gastos de manera sencilla. Armá un presupuesto y un flujo de fondos con nuestra ayuda, para entender cómo estás financieramente y planificar tus objetivos.",
   },
   {
     icon: "bi-shop",
@@ -15,7 +15,7 @@ export const activeFeatures = [
     icon: "bi-controller",
     title: "Jugá y ganá puntos",
     description:
-      "Aprendé a manejar tu dinero jugando. A medida que vayas mejorando tu economía, irás ganando puntos y podrás canjear por beneficios.",
+      "Aprendé a manejar tu dinero jugando. A medida que vayas mejorando tu economía, irás ganando puntos y podrás canjearlos por beneficios.",
   },
   {
     icon: "bi-people-fill",

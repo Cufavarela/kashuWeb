@@ -19,7 +19,7 @@ function Footer() {
           <a href="#">Política de privacidad</a>
         </li>
         <li className="list-inline-item">
-          <a href="#">Apoya a Kashú</a>
+          <a href="#contact">Apoya a Kashú</a>
         </li>
       </ul>
     </footer>

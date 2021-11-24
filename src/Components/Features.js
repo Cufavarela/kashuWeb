@@ -16,8 +16,8 @@ function Features() {
           <p className="lead">
             <strong>Kashú</strong> es una app para aprender a mejorar tu
             economía, jugando. Además, te damos todas las herramientas para que
-            puedas aplicar lo aprendido, y que realmente puedas tener mas
-            ahorros y ¡empezar a hacerlos crecer!
+            puedas aplicar lo aprendido, tener mas ahorros y ¡empezar a hacerlos
+            crecer!
           </p>
         </div>
         <Row>

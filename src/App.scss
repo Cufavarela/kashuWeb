@@ -94,6 +94,28 @@ $primary: #5c54f0;
   }
 }
 
+.personalPic {
+  width: auto;
+}
+
+.firstsCardsRow {
+  @include media-breakpoint-between("xs", "md") {
+    flex-direction: column;
+    .firstsCardsColumn {
+      width: 100%;
+    }
+  }
+}
+
+.thirdCardColumn {
+  max-width: 50%;
+  margin: 20px auto;
+  @include media-breakpoint-between("xs", "md") {
+    max-width: 100%;
+    margin: 0px auto;
+  }
+}
+
 .no-display {
   @include media-breakpoint-between("xs", "md") {
     display: none;

@@ -2,6 +2,7 @@ import React from "react";
 import { Card, Container, Row, Col } from "react-bootstrap";
 import pau from "../Assets/images/Pau.jpeg";
 import gaby from "../Assets/images/Gaby.PNG";
+import fabi from "../Assets/images/Fabi.jpg";
 
 function AboutUs() {
   return (
@@ -29,15 +30,11 @@ function AboutUs() {
             y herramientas financieras en todos los países de América Latina.{" "}
           </p>
         </div>
-        <Container className="d-flex justify-content-around">
-          <Row>
-            <Col>
+        <Container className="d-flex flex-wrap justify-content-around">
+          <Row className="firstsCardsRow">
+            <Col className="firstsCardsColumn">
               <Card className="personalCard">
-                <Card.Img
-                  src={pau}
-                  style={{ filter: "grayscale(100%)", width: "auto" }}
-                  className="no-display"
-                />
+                <Card.Img src={pau} className="personalPic no-display" />
                 <Card.Body>
                   <Card.Title>Paula Victoria Guelfo</Card.Title>
                   <Card.Text>
@@ -59,13 +56,9 @@ function AboutUs() {
                 </Card.Body>
               </Card>
             </Col>
-            <Col>
+            <Col className="firstsCardsColumn">
               <Card className="personalCard">
-                <Card.Img
-                  src={gaby}
-                  style={{ width: "auto" }}
-                  className="no-display"
-                />
+                <Card.Img src={gaby} className="personalPic no-display" />
                 <Card.Body>
                   <Card.Title>Gabriela Rocha Galviz</Card.Title>
                   <Card.Text>
@@ -77,6 +70,33 @@ function AboutUs() {
                     <a
                       target="blank"
                       href="https://www.linkedin.com/in/gabriela-rocha-galviz-22770a132/"
+                    >
+                      <i className="bi bi-linkedin icon-button"></i>
+                    </a>
+                    <a target="blank" href="mailto:grocha@growlatam.net">
+                      <i className="bi bi-envelope icon-button"></i>
+                    </a>
+                  </div>
+                </Card.Body>
+              </Card>
+            </Col>
+          </Row>
+          <Row>
+            <Col className="thirdCardColumn">
+              <Card className="personalCard">
+                <Card.Img src={fabi} className="personalPic no-display" />
+                <Card.Body>
+                  <Card.Title>Fabiola Acarapi Alvarez</Card.Title>
+                  <Card.Text>
+                    Ingeniera en Software, miembro de Youth Task Force de
+                    Amnesty International. Destacada entre las mujeres que
+                    contruyen la Bolivia Digital y la Agencia de Gobierno
+                    Electrónico AGETIC.
+                  </Card.Text>
+                  <div className="d-flex justify-content-around">
+                    <a
+                      target="blank"
+                      href="https://www.linkedin.com/in/fabiacarapi/"
                     >
                       <i className="bi bi-linkedin icon-button"></i>
                     </a>
