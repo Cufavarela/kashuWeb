@@ -81,7 +81,7 @@ function AboutUs() {
               </Card>
             </Col>
           </Row>
-          <Row>
+          {/* <Row>
             <Col className="thirdCardColumn">
               <Card className="personalCard">
                 <Card.Img src={fabi} className="personalPic no-display" />
@@ -107,7 +107,7 @@ function AboutUs() {
                 </Card.Body>
               </Card>
             </Col>
-          </Row>
+          </Row> */}
         </Container>
       </div>
     </>
